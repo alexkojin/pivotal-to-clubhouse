@@ -1,0 +1,7 @@
+## Import Pivotal stories to ClubHouse
+
+Install gems `bundle install`
+
+Open `transfer.rb` and configure Pivotal api key, Pivotal project ID, ClubHouse api key, Clubhouse project name
+
+Run command by `ruby transfer.rb`
